@@ -7,6 +7,6 @@
 
 
 ### 📁  `/countdown`
->➡ Creating Creating an Animating Countdown. ⏲
+>➡ Creating an Animating Countdown. ⏲
 
 ![](/img/count.png)
