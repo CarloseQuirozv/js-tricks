@@ -9,4 +9,4 @@
 ### 📁  `/countdown`
 >➡ Creating an Animating Countdown. ⏱
 
-![](/img/count.png)
+![](/img/count.gif)
